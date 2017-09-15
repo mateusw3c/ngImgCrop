@@ -2,10 +2,10 @@
  * ngImgCrop v0.3.2
  * https://github.com/alexk111/ngImgCrop
  *
- * Copyright (c) 2014 Alex Kaul
+ * Copyright (c) 2017 Alex Kaul
  * License: MIT
  *
- * Generated at Wednesday, December 3rd, 2014, 3:54:12 PM
+ * Generated at Friday, September 15th, 2017, 11:41:33 AM
  */
 (function() {
 'use strict';
@@ -474,13 +474,13 @@ crop.factory('cropCanvas', [function() {
 
   // Colors
   var colors={
-    areaOutline: '#fff',
-    resizeBoxStroke: '#fff',
-    resizeBoxFill: '#444',
-    resizeBoxArrowFill: '#fff',
-    resizeCircleStroke: '#fff',
-    resizeCircleFill: '#444',
-    moveIconFill: '#fff'
+    areaOutline: "#43A2F1",
+    resizeBoxStroke: "#43A2F1",
+    resizeBoxFill: "#43A2F1",
+    resizeBoxArrowFill: "#FFF",
+    resizeCircleStroke: "#fff",
+    resizeCircleFill: "#444",
+    moveIconFill: "#fff"
   };
 
   return function(ctx){

@@ -13,13 +13,13 @@ crop.factory('cropCanvas', [function() {
 
   // Colors
   var colors={
-    areaOutline: '#fff',
-    resizeBoxStroke: '#fff',
-    resizeBoxFill: '#444',
-    resizeBoxArrowFill: '#fff',
-    resizeCircleStroke: '#fff',
-    resizeCircleFill: '#444',
-    moveIconFill: '#fff'
+    areaOutline: "#43A2F1",
+    resizeBoxStroke: "#43A2F1",
+    resizeBoxFill: "#43A2F1",
+    resizeBoxArrowFill: "#FFF",
+    resizeCircleStroke: "#fff",
+    resizeCircleFill: "#444",
+    moveIconFill: "#fff"
   };
 
   return function(ctx){
