@@ -24,5 +24,8 @@
   ],
   "devDependencies": {
     "angular": "~1.2.19"
+  },
+  "dependencies": {
+    "ng-img-crop": "ngImgCrop-Webfy#^0.3.2"
   }
 }
